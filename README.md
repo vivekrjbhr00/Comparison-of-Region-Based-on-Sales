@@ -51,3 +51,6 @@ Datasets: Sample Superstore
    d. No. of Customers
 
    e. No. of Products in Sale
+
+
+   Tableau Link : https://public.tableau.com/app/profile/vivek.rajbhar/viz/ComparisonofRegionBasedonSales_17147042443820/Dashboard1?publish=yes
